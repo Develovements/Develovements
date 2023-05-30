@@ -68,6 +68,6 @@
          width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Develovements&theme=dark&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Develovements&theme=dark&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=495)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Develovements&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
